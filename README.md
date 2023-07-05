@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm 𝑹𝒂𝒏𝒋𝒊𝒏𝒏𝒊𝒋𝒐𝒔𝒉𝒆</h1>
 
-I have total of a decade years of experience in Cloud environment which is in **𝓐𝓦𝓢 𝓢𝓮𝓬𝓾𝓻𝓲𝓽𝔂 & 𝓢𝓪𝓵𝓮𝓼𝓯𝓸𝓻𝓬𝓮 𝓢𝓮𝓬𝓾𝓻𝓲𝓽𝔂**. 
+**𝓐𝓦𝓢 𝓢𝓮𝓬𝓾𝓻𝓲𝓽𝔂 & 𝓢𝓪𝓵𝓮𝓼𝓯𝓸𝓻𝓬𝓮 𝓢𝓮𝓬𝓾𝓻𝓲𝓽𝔂**. 
 
 ![image](https://github.com/ranjujoshi/ranjujoshi/assets/19187348/26b74ab2-2dd8-4ce3-880a-f88a720adeb2)
 
@@ -29,9 +29,6 @@ Indian Resident
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjini&label=Profile%20views&color=0e75b6&style=flat" alt="ranjini" /> </p>
 
-- 🔭 I’m currently working on **security**
-
-- 👯 I’m looking to collaborate on **xyz**
 
 # **My TECHNICAL CONTRIBUTION - AWS - Amazon Web Services (AWS)** 
 - [𝐃𝐚𝐭𝐚 𝐄𝐧𝐜𝐫𝐲𝐩𝐭𝐢𝐨𝐧 𝐢𝐧 𝐀𝐖𝐒 𝐂𝐥𝐨𝐮𝐝 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲](https://www.linkedin.com/posts/ranjinnijoshe_connections-100daysofcloudsecuritychallenge-activity-7071818076161257472-ZMOW?utm_source=share&utm_medium=member_desktop)
