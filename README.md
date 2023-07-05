@@ -2,8 +2,13 @@
 
 I have total of a decade years of experience in Cloud environment which is in **𝓐𝓦𝓢 𝓢𝓮𝓬𝓾𝓻𝓲𝓽𝔂 & 𝓢𝓪𝓵𝓮𝓼𝓯𝓸𝓻𝓬𝓮 𝓢𝓮𝓬𝓾𝓻𝓲𝓽𝔂**. 
 
-𝙋𝙧𝙤𝙛𝙚𝙨𝙨𝙞𝙤𝙣- 
+![image](https://github.com/ranjujoshi/ranjujoshi/assets/19187348/26b74ab2-2dd8-4ce3-880a-f88a720adeb2)
 
+# Technical Skills
+
+![image](https://github.com/ranjujoshi/ranjujoshi/assets/19187348/3de692a4-a88c-4ad7-b4f6-3ff4f5aeb928)
+
+𝙋𝙧𝙤𝙛𝙚𝙨𝙨𝙞𝙤𝙣- 
 Working as ******AWS Cloud Security Specialist****** - Expertize in infrastructure and Security provisioning using tools such as E𝑬𝑪2, 𝑬𝑪𝑺 𝑭𝒂𝒓𝒈𝒂𝒕𝒆, 𝑽𝑷𝑪, 𝑬𝑳𝑩, 𝑹𝒐𝒖𝒕𝒆 53, 𝑨𝒖𝒕𝒐 𝑺𝒄𝒂𝒍𝒊𝒏𝒈, 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝑮𝒓𝒐𝒖𝒑𝒔, 𝑻𝒂𝒓𝒈𝒆𝒕 𝑮𝒓𝒐𝒖𝒑𝒔, 𝑹𝑫𝑺, 𝒂𝒏𝒅 𝑪𝒍𝒐𝒖𝒅𝑾𝒂𝒕𝒄𝒉, 𝑪𝒍𝒐𝒖𝒅𝑻𝒓𝒂𝒊𝒍, 𝑪𝒍𝒐𝒖𝒅 𝑭𝒐𝒓𝒎𝒂𝒕𝒊𝒐𝒏, 𝑪𝒍𝒐𝒖𝒅𝒇𝒓𝒐𝒏𝒕, 𝑨𝑾𝑺 𝑪𝒐𝒅𝒆𝑺𝒉𝒊𝒆𝒍𝒅, 𝑨𝑾𝑺 𝑲𝑴𝑺 - 𝑬𝒏𝒄𝒓𝒚𝒑𝒕𝒊𝒐𝒏, 𝑨𝑾𝑺 𝑬𝑭𝑺, 𝑪𝒍𝒐𝒖𝒅 𝑾𝒂𝒕𝒄𝒉, 𝑪𝒍𝒐𝒖𝒅 𝒕𝒓𝒂𝒊𝒍.. 𝑰 𝒍𝒆𝒗𝒆𝒓𝒂𝒈𝒆 𝒎𝒚 𝒆𝒙𝒑𝒆𝒓𝒕𝒊𝒔𝒆 𝒊𝒏 𝑨𝑾𝑺 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝑨𝒓𝒄𝒉𝒊𝒕𝒆𝒄𝒕𝒖𝒓𝒆, 𝑨𝑾𝑺 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝑯𝑼𝑩 , 𝑨𝑾𝑺 𝑴𝒐𝒏𝒊𝒕𝒐𝒓𝒊𝒏𝒈 𝒕𝒐𝒐𝒍𝒔.
 𝘝𝘰𝘭𝘶𝘯𝘵𝘦𝘦𝘳𝘪𝘯𝘨 𝘊𝘰𝘮𝘮𝘶𝘯𝘪𝘵𝘪𝘦𝘴 𝘭𝘪𝘬𝘦 𝗖𝗹𝗼𝘂𝗱𝗻𝗟𝗼𝘂𝗱 𝗧𝗲𝗰𝗵 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗮𝗻𝗱 𝗖𝗹𝗼𝘂𝗱𝗻𝗹𝗼𝘂𝗱 𝗗𝗮𝘁𝗮/𝗚𝗲𝗻 𝗔𝗜/𝗠𝗟 𝗟𝗮𝗯𝘀 𝗜𝗻𝗱𝗶𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆.
 
@@ -55,9 +60,13 @@ Indian Resident
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ranjinnijoshe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ranjinnijoshe/" height="30" width="40" /></a>
-<a href="https://medium.com/@fawazcp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-pr
-
+<a href="https://medium.com/@ranjinnijoshe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fawazcp" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ranjujoshi6851/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@cloudnloud" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fawazcp&show_icons=true&locale=en&layout=compact" alt="fawazcp" /></p>
+
 
