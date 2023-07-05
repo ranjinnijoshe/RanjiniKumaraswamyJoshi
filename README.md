@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ranjinnijoshe</h1>
 
-I have total of a decade years of experience in Cloud environment which is in **AWS Security & Salesforce Security**. 
+I have total of a decade years of experience in Cloud environment which is in **𝓐𝓦𝓢 𝓢𝓮𝓬𝓾𝓻𝓲𝓽𝔂 & 𝓢𝓪𝓵𝓮𝓼𝓯𝓸𝓻𝓬𝓮 𝓢𝓮𝓬𝓾𝓻𝓲𝓽𝔂**. 
 
 𝙋𝙧𝙤𝙛𝙚𝙨𝙨𝙞𝙤𝙣- 
 
-Working as ******AWS Cloud Security Specialist****** - Expertize in infrastructure and Security provisioning using tools such as EC2, ECS Fargate, VPC, ELB, Route 53, Auto Scaling, Security Groups, Target Groups, RDS, and CloudWatch, CloudTrail, Cloud Formation, Cloudfront, AWS CodeShield, AWS KMS - Encryption, AWS EFS, Cloud Watch, Cloud trail.. I leverage my expertise in AWS Security Architecture, AWS Security HUB , AWS Monitoring tools.
+Working as ******AWS Cloud Security Specialist****** - Expertize in infrastructure and Security provisioning using tools such as E𝑬𝑪2, 𝑬𝑪𝑺 𝑭𝒂𝒓𝒈𝒂𝒕𝒆, 𝑽𝑷𝑪, 𝑬𝑳𝑩, 𝑹𝒐𝒖𝒕𝒆 53, 𝑨𝒖𝒕𝒐 𝑺𝒄𝒂𝒍𝒊𝒏𝒈, 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝑮𝒓𝒐𝒖𝒑𝒔, 𝑻𝒂𝒓𝒈𝒆𝒕 𝑮𝒓𝒐𝒖𝒑𝒔, 𝑹𝑫𝑺, 𝒂𝒏𝒅 𝑪𝒍𝒐𝒖𝒅𝑾𝒂𝒕𝒄𝒉, 𝑪𝒍𝒐𝒖𝒅𝑻𝒓𝒂𝒊𝒍, 𝑪𝒍𝒐𝒖𝒅 𝑭𝒐𝒓𝒎𝒂𝒕𝒊𝒐𝒏, 𝑪𝒍𝒐𝒖𝒅𝒇𝒓𝒐𝒏𝒕, 𝑨𝑾𝑺 𝑪𝒐𝒅𝒆𝑺𝒉𝒊𝒆𝒍𝒅, 𝑨𝑾𝑺 𝑲𝑴𝑺 - 𝑬𝒏𝒄𝒓𝒚𝒑𝒕𝒊𝒐𝒏, 𝑨𝑾𝑺 𝑬𝑭𝑺, 𝑪𝒍𝒐𝒖𝒅 𝑾𝒂𝒕𝒄𝒉, 𝑪𝒍𝒐𝒖𝒅 𝒕𝒓𝒂𝒊𝒍.. 𝑰 𝒍𝒆𝒗𝒆𝒓𝒂𝒈𝒆 𝒎𝒚 𝒆𝒙𝒑𝒆𝒓𝒕𝒊𝒔𝒆 𝒊𝒏 𝑨𝑾𝑺 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝑨𝒓𝒄𝒉𝒊𝒕𝒆𝒄𝒕𝒖𝒓𝒆, 𝑨𝑾𝑺 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝑯𝑼𝑩 , 𝑨𝑾𝑺 𝑴𝒐𝒏𝒊𝒕𝒐𝒓𝒊𝒏𝒈 𝒕𝒐𝒐𝒍𝒔.
 𝘝𝘰𝘭𝘶𝘯𝘵𝘦𝘦𝘳𝘪𝘯𝘨 𝘊𝘰𝘮𝘮𝘶𝘯𝘪𝘵𝘪𝘦𝘴 𝘭𝘪𝘬𝘦 𝗖𝗹𝗼𝘂𝗱𝗻𝗟𝗼𝘂𝗱 𝗧𝗲𝗰𝗵 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗮𝗻𝗱 𝗖𝗹𝗼𝘂𝗱𝗻𝗹𝗼𝘂𝗱 𝗗𝗮𝘁𝗮/𝗚𝗲𝗻 𝗔𝗜/𝗠𝗟 𝗟𝗮𝗯𝘀 𝗜𝗻𝗱𝗶𝗮 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆.
 
-👩‍💻I am incredibly passionate about 𝗔𝗪𝗦 𝗖𝗹𝗼𝘂𝗱 **Security**. I am delighted to share that 𝗜 𝗮𝗺 𝗹𝗲𝗮𝗱𝗶𝗻𝗴 𝘁𝗵𝗲 𝗔𝗪𝗦 **Security** 𝘁𝗲𝗮𝗺 𝗶𝗻 𝘁𝗵𝗲 𝗲𝘀𝘁𝗲𝗲𝗺𝗲𝗱 𝗖𝗹𝗼𝘂𝗱𝗻𝗹𝗼𝘂𝗱 𝗧𝗲𝗰𝗵 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆. My Aim is to empower and nurture future #aws Leaders in the field of AWS Security.
+👩‍💻I am incredibly passionate about 𝗔𝗪𝗦 𝗖𝗹𝗼𝘂𝗱 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆. I am delighted to share that	𝗜 𝗮𝗺 𝗹𝗲𝗮𝗱𝗶𝗻𝗴 𝘁𝗵𝗲 𝗔𝗪𝗦 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝘁𝗲𝗮𝗺 𝗶𝗻 𝘁𝗵𝗲 𝗲𝘀𝘁𝗲𝗲𝗺𝗲𝗱 𝗖𝗹𝗼𝘂𝗱𝗻𝗹𝗼𝘂𝗱 𝗧𝗲𝗰𝗵 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆. 𝑴𝒚 𝑨𝒊𝒎 𝒊𝒔 𝒕𝒐 𝒆𝒎𝒑𝒐𝒘𝒆𝒓 𝒂𝒏𝒅 𝒏𝒖𝒓𝒕𝒖𝒓𝒆 𝒇𝒖𝒕𝒖𝒓𝒆 #𝒂𝒘𝒔 𝑳𝒆𝒂𝒅𝒆𝒓𝒔 𝒊𝒏 𝒕𝒉𝒆 𝒇𝒊𝒆𝒍𝒅 𝒐𝒇 𝑨𝑾𝑺 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚.
 
 🚀 I am actively 𝗝𝗼𝘂𝗿𝗻𝗲𝘆𝗶𝗻𝗴 𝘁𝗼 𝘃𝗮𝗿𝗶𝗼𝘂𝘀 **𝗖𝗼mmunities** 𝘁𝗼 𝘀𝗵𝗮𝗽𝗲 𝘁𝗵𝗲 𝗙𝘂𝘁𝘂𝗿𝗲 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗼𝗻 𝘁𝗼 𝗯𝗲 𝘀𝗸𝗶𝗹𝗹𝗲𝗱 𝗽𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹𝘀 𝗶𝗻 #𝗔𝗪𝗦𝗖𝗹𝗼𝘂𝗱 **Security**. Im open to travel and visit other communities and virtual meetups to impart my knowledge and expertise to techies and collage students.👩‍🎓
 
