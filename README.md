@@ -2,7 +2,8 @@
 
 **𝑨𝑾𝑺 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚 & 𝑺𝒂𝒍𝒆𝒔𝒇𝒐𝒓𝒄𝒆 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚**. 
 
-![image](https://github.com/ranjujoshi/ranjujoshi/assets/19187348/26b74ab2-2dd8-4ce3-880a-f88a720adeb2)
+![image](https://github.com/ranjujoshi/ranjujoshi/assets/19187348/35a4485e-fa70-44fd-8eae-73a49fc8e9a9)
+
 
 # Technical Skills
 
