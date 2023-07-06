@@ -54,6 +54,10 @@ Indian Resident
 -  [**Intellectual Property Collaboration Security Strategy AWS Security!**](https://www.linkedin.com/posts/ranjinnijoshe_securecloudops-awssecurity-awscloudsecurity-activity-7079746214186926080-1ewI?utm_source=share&utm_medium=member_desktop)
 -  
 
+# BLOGS
+- [AWS KMS Symmetric Key Creation — Importing Keys](https://medium.com/cloudnloud/aws-kms-symmetric-key-creation-importing-keys-262dc13b7a0a)
+- [𝐂𝐥𝐨𝐮𝐝 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 — 𝐀𝐖𝐒 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐂𝐡𝐞𝐜𝐤𝐥𝐢𝐬𝐭](https://medium.com/cloudnloud/-aaab5689deff)
+- [𝐂𝐥𝐨𝐮𝐝 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 — 𝐀𝐖𝐒 𝐜𝐚𝐩𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬 𝐛𝐞𝐬𝐭 𝐩𝐫𝐚𝐜𝐭𝐢𝐜𝐞𝐬 & 𝐠𝐮𝐢𝐝𝐚𝐧𝐜𝐞](https://medium.com/cloudnloud/-a7dfd88e8a57)
 
 
 # VLOGS
