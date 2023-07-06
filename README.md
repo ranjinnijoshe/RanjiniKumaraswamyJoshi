@@ -45,7 +45,14 @@ Indian Resident
 - [𝐂𝐥𝐨𝐮𝐝 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 - 𝐀𝐖𝐒 𝐜𝐚𝐩𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬 𝐛𝐞𝐬𝐭 𝐩𝐫𝐚𝐜𝐭𝐢𝐜𝐞𝐬 & 𝐠𝐮𝐢𝐝𝐚𝐧𝐜𝐞 Part - 3](https://www.linkedin.com/posts/ranjinnijoshe_connections-100daysofcloudsecuritychallenge-activity-7079756009572896768-2RS4?utm_source=share&utm_medium=member_desktop)
 - [𝐂𝐥𝐨𝐮𝐝 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 - 𝐀𝐖𝐒 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐂𝐡𝐞𝐜𝐤𝐥𝐢𝐬𝐭](https://www.linkedin.com/posts/ranjinnijoshe_connections-100daysofcloudsecuritychallenge-activity-7081987602811158528-WupI?utm_source=share&utm_medium=member_desktop)
 - [𝐂𝐥𝐨𝐮𝐝 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 - 𝐀𝐖𝐒 𝐊𝐌𝐒 𝐄𝐧𝐜𝐫𝐲𝐩𝐭𝐢𝐨𝐧](https://www.linkedin.com/posts/ranjinnijoshe_connections-100daysofcloudsecuritychallenge-activity-7081997584914944000-1Evx?utm_source=share&utm_medium=member_desktop)
-  
+-  [**Amazon Security Lake**](https://www.linkedin.com/posts/ranjinnijoshe_amazon-security-lake-is-now-generally-available-activity-7075743723233447936--zq2?utm_source=share&utm_medium=member_desktop)
+-  [****＃ａｗｓｄｅｖｄａｙ****](https://www.linkedin.com/posts/ranjinnijoshe_awsdevday-awscloud-aws-activity-7075530762896224256-fgVV?utm_source=share&utm_medium=member_desktop)
+-  [**𝐀𝐖𝐒 𝐭𝐨𝐩 𝐩𝐫𝐢𝐨𝐫𝐢𝐭𝐲 𝐢𝐬 𝐜𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲**](https://www.linkedin.com/posts/ranjinnijoshe_connections-100daysofcloudsecuritychallenge-activity-7074789403319037952-5cJM?utm_source=share&utm_medium=member_desktop)
+-  [**𝐂𝐥𝐨𝐮𝐝 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐚𝐭 #𝐀𝐖𝐒𝐫𝐞𝐈𝐧𝐟𝐨𝐫𝐜𝐞 𝟐𝟎𝟐𝟑 - Part-1**](https://www.linkedin.com/posts/ranjinnijoshe_and-here-we-go-reinforce-is-here-activity-7074387868751695872-7Fx0?utm_source=share&utm_medium=member_desktop)
+-  [**𝐀𝐦𝐚𝐳𝐨𝐧 𝐖𝐞𝐛 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬 (𝐀𝐖𝐒) 𝐫𝐞𝐢𝐧𝐟𝐨𝐫𝐜𝐞 - Part-2**](https://www.linkedin.com/posts/ranjinnijoshe_cant-make-it-to-aws-reinforce-this-year-activity-7074278362097074176-2Clb?utm_source=share&utm_medium=member_desktop)
+-  [**𝐀𝐦𝐚𝐳𝐨𝐧 𝐖𝐞𝐛 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬 (𝐀𝐖𝐒) 𝐫𝐞𝐢𝐧𝐟𝐨𝐫𝐜𝐞 - Part-3**](https://www.linkedin.com/posts/ranjinnijoshe_securecloudops-awssecurity-awscloudsecurity-activity-7073863249917612032-v3-H?utm_source=share&utm_medium=member_desktop)
+-  [**Intellectual Property Collaboration Security Strategy AWS Security!**](https://www.linkedin.com/posts/ranjinnijoshe_securecloudops-awssecurity-awscloudsecurity-activity-7079746214186926080-1ewI?utm_source=share&utm_medium=member_desktop)
+-  
 
 
 
