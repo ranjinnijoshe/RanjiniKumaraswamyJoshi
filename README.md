@@ -45,13 +45,18 @@ Working as ******AWS Cloud Security Specialist****** - Expertize in infrastructu
 - [𝐂𝐥𝐨𝐮𝐝 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 - 𝐀𝐖𝐒 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐂𝐡𝐞𝐜𝐤𝐥𝐢𝐬𝐭](https://www.linkedin.com/posts/ranjinnijoshe_connections-100daysofcloudsecuritychallenge-activity-7081987602811158528-WupI?utm_source=share&utm_medium=member_desktop)
 - [𝐂𝐥𝐨𝐮𝐝 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 - 𝐀𝐖𝐒 𝐊𝐌𝐒 𝐄𝐧𝐜𝐫𝐲𝐩𝐭𝐢𝐨𝐧](https://www.linkedin.com/posts/ranjinnijoshe_connections-100daysofcloudsecuritychallenge-activity-7081997584914944000-1Evx?utm_source=share&utm_medium=member_desktop)
 -  [**Amazon Security Lake**](https://www.linkedin.com/posts/ranjinnijoshe_amazon-security-lake-is-now-generally-available-activity-7075743723233447936--zq2?utm_source=share&utm_medium=member_desktop)
--  [****＃ａｗｓｄｅｖｄａｙ****](https://www.linkedin.com/posts/ranjinnijoshe_awsdevday-awscloud-aws-activity-7075530762896224256-fgVV?utm_source=share&utm_medium=member_desktop)
+-  [**＃ａｗｓ🌟🌟ｄｅｖｄａｙ**](https://www.linkedin.com/posts/ranjinnijoshe_awsdevday-awscloud-aws-activity-7075530762896224256-fgVV?utm_source=share&utm_medium=member_desktop)
 -  [**𝐀𝐖𝐒 𝐭𝐨𝐩 𝐩𝐫𝐢𝐨𝐫𝐢𝐭𝐲 𝐢𝐬 𝐜𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲**](https://www.linkedin.com/posts/ranjinnijoshe_connections-100daysofcloudsecuritychallenge-activity-7074789403319037952-5cJM?utm_source=share&utm_medium=member_desktop)
 -  [**𝐂𝐥𝐨𝐮𝐝 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐚𝐭 #𝐀𝐖𝐒𝐫𝐞𝐈𝐧𝐟𝐨𝐫𝐜𝐞 𝟐𝟎𝟐𝟑 - Part-1**](https://www.linkedin.com/posts/ranjinnijoshe_and-here-we-go-reinforce-is-here-activity-7074387868751695872-7Fx0?utm_source=share&utm_medium=member_desktop)
 -  [**𝐀𝐦𝐚𝐳𝐨𝐧 𝐖𝐞𝐛 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬 (𝐀𝐖𝐒) 𝐫𝐞𝐢𝐧𝐟𝐨𝐫𝐜𝐞 - Part-2**](https://www.linkedin.com/posts/ranjinnijoshe_cant-make-it-to-aws-reinforce-this-year-activity-7074278362097074176-2Clb?utm_source=share&utm_medium=member_desktop)
 -  [**𝐀𝐦𝐚𝐳𝐨𝐧 𝐖𝐞𝐛 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬 (𝐀𝐖𝐒) 𝐫𝐞𝐢𝐧𝐟𝐨𝐫𝐜𝐞 - Part-3**](https://www.linkedin.com/posts/ranjinnijoshe_securecloudops-awssecurity-awscloudsecurity-activity-7073863249917612032-v3-H?utm_source=share&utm_medium=member_desktop)
 -  [**Intellectual Property Collaboration Security Strategy AWS Security!**](https://www.linkedin.com/posts/ranjinnijoshe_securecloudops-awssecurity-awscloudsecurity-activity-7079746214186926080-1ewI?utm_source=share&utm_medium=member_desktop)
--  𝐂𝐥𝐨𝐮𝐝 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 - 𝐃𝐚𝐭𝐚 𝐏𝐫𝐨𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐰𝐢𝐭𝐡 𝐀𝐖𝐒 𝐊𝐌𝐒 𝐄𝐧𝐜𝐫𝐲𝐩𝐭𝐢𝐨𝐧
+-  [**𝐂𝐥𝐨𝐮𝐝 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 - 𝐃𝐚𝐭𝐚 𝐏𝐫𝐨𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐰𝐢𝐭𝐡 𝐀𝐖𝐒 𝐊𝐌𝐒 𝐄𝐧𝐜𝐫𝐲𝐩𝐭𝐢𝐨𝐧**](https://www.linkedin.com/posts/ranjinnijoshe_connections-100daysofcloudsecuritychallenge-activity-7083059689470529536-FbHv?utm_source=share&utm_medium=member_desktop)
+-  [**C𝐥𝐨𝐮𝐝 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 - 𝐀𝐖𝐒 𝐨𝐩𝐭𝐢𝐨𝐧𝐬 𝐟𝐨𝐫 𝐊𝐞𝐲 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭**](https://www.linkedin.com/posts/ranjinnijoshe_connections-100daysofcloudsecuritychallenge-activity-7083111368379273216-mNtD?utm_source=share&utm_medium=member_desktop)
+-  [**#𝐀𝐖𝐒𝐁𝐮𝐢𝐥𝐝𝐞𝐫𝐬🌟🌟𝐎𝐧𝐥𝐢𝐧𝐞𝐒𝐞𝐫𝐢𝐞𝐬P𝐫𝐨𝐠𝐫𝐚𝐦**](https://www.linkedin.com/posts/ranjinnijoshe_awsbuildersonlineseries-awsonair-awscloud-activity-7083132675196157952-mJg3?utm_source=share&utm_medium=member_desktop)
+-  [**𝐂𝐥𝐨𝐮𝐝 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 - 𝐀𝐖𝐒 𝐊𝐌𝐒 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 & 𝐃𝐞𝐬𝐢𝐠𝐧 𝐆𝐨𝐚𝐥𝐬**](https://www.linkedin.com/posts/ranjinnijoshe_connections-100daysofcloudsecuritychallenge-activity-7084202708135526400-adGa?utm_source=share&utm_medium=member_desktop)
+-  [**𝐂𝐥𝐨𝐮𝐝 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 - 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐟𝐨𝐫 𝐂𝐡𝐞𝐜𝐤 𝐏𝐨𝐢𝐧𝐭 𝐂𝐥𝐨𝐮𝐝𝐆𝐮𝐚𝐫𝐝 𝐀𝐮𝐭𝐨 𝐒𝐜𝐚𝐥𝐢𝐧𝐠 𝐨𝐧 𝐭𝐡𝐞 𝐀𝐖𝐒 𝐂𝐥𝐨𝐮𝐝**](https://www.linkedin.com/posts/ranjinnijoshe_connections-100daysofcloudsecuritychallenge-activity-7084230470162415616-sKiG?utm_source=share&utm_medium=member_desktop)
+  
 
 # BLOGS
 - [AWS KMS Symmetric Key Creation — Importing Keys](https://medium.com/cloudnloud/aws-kms-symmetric-key-creation-importing-keys-262dc13b7a0a)
