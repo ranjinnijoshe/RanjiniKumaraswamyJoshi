@@ -62,14 +62,14 @@ Working as ******AWS Cloud Security Specialist****** - Expertize in infrastructu
   
 
 # BLOGS 
-- 🎀[AWS KMS Symmetric Key Creation — Importing Keys](https://medium.com/cloudnloud/aws-kms-symmetric-key-creation-importing-keys-262dc13b7a0a)
-- 🎀[𝐂𝐥𝐨𝐮𝐝 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 — 𝐀𝐖𝐒 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐂𝐡𝐞𝐜𝐤𝐥𝐢𝐬𝐭](https://medium.com/cloudnloud/-aaab5689deff)
-- 🎀[𝐂𝐥𝐨𝐮𝐝 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 — 𝐀𝐖𝐒 𝐜𝐚𝐩𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬 𝐛𝐞𝐬𝐭 𝐩𝐫𝐚𝐜𝐭𝐢𝐜𝐞𝐬 & 𝐠𝐮𝐢𝐝𝐚𝐧𝐜𝐞](https://medium.com/cloudnloud/-a7dfd88e8a57)
+- 🎀[**𝐀𝐖𝐒 𝐊𝐌𝐒 𝐒𝐲𝐦𝐦𝐞𝐭𝐫𝐢𝐜 𝐊𝐞𝐲 𝐂𝐫𝐞𝐚𝐭𝐢𝐨𝐧 — 𝐈𝐦𝐩𝐨𝐫𝐭𝐢𝐧𝐠 𝐊𝐞𝐲𝐬**](https://medium.com/cloudnloud/aws-kms-symmetric-key-creation-importing-keys-262dc13b7a0a)
+- 🎀[**𝐂𝐥𝐨𝐮𝐝 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 — 𝐀𝐖𝐒 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐂𝐡𝐞𝐜𝐤𝐥𝐢𝐬𝐭**](https://medium.com/cloudnloud/-aaab5689deff)
+- 🎀[**𝐂𝐥𝐨𝐮𝐝 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 — 𝐀𝐖𝐒 𝐜𝐚𝐩𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬 𝐛𝐞𝐬𝐭 𝐩𝐫𝐚𝐜𝐭𝐢𝐜𝐞𝐬 & 𝐠𝐮𝐢𝐝𝐚𝐧𝐜𝐞**](https://medium.com/cloudnloud/-a7dfd88e8a57)
 
 
 # VLOGS
-- 🎀[CSA Bangalore - Cloud Encryption and AWS KMS Key Management](https://www.youtube.com/watch?v=_FB7KyLi4m4)
-- 🎀[AWS KMS Symmetric key Creation - Importing Keys](https://www.youtube.com/watch?v=ROilr6EkdYY)
+- 🎀[**𝐂𝐒𝐀 𝐁𝐚𝐧𝐠𝐚𝐥𝐨𝐫𝐞 - 𝐂𝐥𝐨𝐮𝐝 𝐄𝐧𝐜𝐫𝐲𝐩𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐀𝐖𝐒 𝐊𝐌𝐒 𝐊𝐞𝐲 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭**](https://www.youtube.com/watch?v=_FB7KyLi4m4)
+- 🎀[**𝐀𝐖𝐒 𝐊𝐌𝐒 𝐒𝐲𝐦𝐦𝐞𝐭𝐫𝐢𝐜 𝐤𝐞𝐲 𝐂𝐫𝐞𝐚𝐭𝐢𝐨𝐧 - 𝐈𝐦𝐩𝐨𝐫𝐭𝐢𝐧𝐠 𝐊𝐞𝐲𝐬**](https://www.youtube.com/watch?v=ROilr6EkdYY)
 
 
 <h3 align="left">Connect with me:</h3>
