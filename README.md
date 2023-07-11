@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm 𝑹𝒂𝒏𝒋𝒊𝒏𝒏𝒊𝒋𝒐𝒔𝒉𝒆</h1>
+<h1 align="center">Hi 👋, I'm 𝑹𝒂𝒏𝒋𝒊𝒏𝒏𝒊𝒋𝒐𝒔𝒉𝒆 ☺ </h1> 
 
-✨ 🍁 **𝑨𝑾𝑺 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚 & 𝑺𝒂𝒍𝒆𝒔𝒇𝒐𝒓𝒄𝒆 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚**. 🍁 ✨
+<h1 align="center"> ✨ 🍁 **𝑨𝑾𝑺 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚 & 𝑺𝒂𝒍𝒆𝒔𝒇𝒐𝒓𝒄𝒆 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚**. 🍁 ✨ </h1>
 
 ![image](https://github.com/ranjujoshi/ranjujoshi/assets/19187348/35a4485e-fa70-44fd-8eae-73a49fc8e9a9)
 
@@ -20,7 +20,8 @@ Working as ******AWS Cloud Security Specialist****** - Expertize in infrastructu
 
 🌸**𝐀𝐬 𝐚 𝐆𝐨-𝐠𝐞𝐭𝐭𝐞𝐫 𝐛𝐲 𝐚 𝐜𝐡𝐚𝐫𝐚𝐜𝐭𝐞𝐫 𝐈 𝐡𝐚𝐯𝐞 𝐦𝐚𝐫𝐤𝐞𝐝 𝐦𝐲𝐬𝐞𝐥𝐟 𝐭𝐨 𝐛𝐞 𝐚 𝐩𝐫𝐨𝐟𝐢𝐜𝐢𝐞𝐧𝐭 𝐚𝐧𝐝 𝐰𝐚𝐧𝐭 𝐭𝐨 𝐡𝐚𝐯𝐞 𝐚𝐥𝐥 𝐭𝐡𝐚𝐭 𝐠𝐫𝐞𝐚𝐭 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐰𝐢𝐭𝐡 𝐀𝐖𝐒 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐬𝐞𝐫𝐯𝐢𝐜𝐞𝐬.**🌸
 
-💚💙❤️ # AWS Events Attended 💚💙❤️
+                                             💚💙❤️ # AWS Events Attended 💚💙❤️
+
 ![WhatsApp Image 2023-07-02 at 8 11 58 PM (1)](https://github.com/ranjujoshi/ranjujoshi/assets/19187348/86e3e840-d323-4fe1-b7d4-19c811ef11a1)
 ![134_3_1930664_1657012216_AWS Course Completion Certificate_page-0001](https://github.com/ranjujoshi/ranjujoshi/assets/19187348/1bab483c-0abb-4381-a5ac-f383b3feb7bd)
 ![WhatsApp Image 2023-07-05 at 10 18 38 PM](https://github.com/ranjujoshi/ranjujoshi/assets/19187348/054cabab-1b0a-4ec7-b97a-c94e0bfd0406)
