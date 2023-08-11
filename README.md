@@ -22,6 +22,14 @@ Also 𝘝𝘰𝘭𝘶𝘯𝘵𝘦𝘦𝘳𝘪𝘯𝘨 𝘊𝘰𝘮𝘮𝘶𝘯�
 
 ![WhatsApp Image 2023-07-14 at 7 19 09 PM](https://github.com/ranjujoshi/ranjujoshi/assets/19187348/17d4af91-176e-4fd4-8de6-4c390705dfdc)
 
+💚💙❤️ Honored as Jury by Government of India - National level Hackathon 2023 💚💙❤️
+
+![WhatsApp Image 2023-08-10 at 4 07 53 PM (1)](https://github.com/ranjujoshi/ranjujoshi/assets/19187348/48a83ea6-7bfd-43e6-a51f-b910472a40bf)
+
+![WhatsApp Image 2023-08-10 at 4 06 10 PM](https://github.com/ranjujoshi/ranjujoshi/assets/19187348/12e25397-a446-48e8-aa46-45ecf17a4a0d)
+
+
+
                                              💚💙❤️ # AWS Events Attended 💚💙❤️
 
 ![WhatsApp Image 2023-07-02 at 8 11 58 PM (1)](https://github.com/ranjujoshi/ranjujoshi/assets/19187348/86e3e840-d323-4fe1-b7d4-19c811ef11a1)
