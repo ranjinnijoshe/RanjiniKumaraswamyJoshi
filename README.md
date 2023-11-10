@@ -2,6 +2,8 @@
 
 <h1 align="center"> ✨ 🍁 **𝑨𝑾𝑺 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚 & 𝑺𝒂𝒍𝒆𝒔𝒇𝒐𝒓𝒄𝒆 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚**. 🍁 ✨ </h1>
 
+![Colorful Watercolor Floral Linktree Background (12)](https://github.com/ranjinnijoshe/ranjujoshi/assets/19187348/9dba9ed3-9506-4cc9-931c-6d626a4bea73)
+
 ![image](https://github.com/ranjujoshi/ranjujoshi/assets/19187348/35a4485e-fa70-44fd-8eae-73a49fc8e9a9)
 
 
