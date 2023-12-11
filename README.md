@@ -6,6 +6,8 @@
 
 ![image](https://github.com/ranjinnijoshe/ranjujoshi/assets/19187348/73bcf18b-f1ed-4b77-bf14-4210d33d943d)
 
+![WTN - Finalist](https://github.com/ranjinnijoshe/ranjujoshi/assets/19187348/87fe6d85-af6c-472b-8655-85fadd309bd3)
+
 
 
 ✨ # **Technical Skills** ✨
