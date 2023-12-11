@@ -13,7 +13,9 @@
 
 ✨ # **Technical Skills** ✨
 
-![image](https://github.com/ranjinnijoshe/ranjujoshi/assets/19187348/c9035129-e5b6-4821-853c-e8df1582f944)
+![image](https://github.com/ranjinnijoshe/ranjujoshi/assets/19187348/733ccd67-cb40-4d04-a17a-24fda03d03b3)
+
+![image](https://github.com/ranjinnijoshe/ranjujoshi/assets/19187348/d2ce061f-5662-48dd-a2d2-03dc8f0aa597)
 
 
 ❄️🌺**𝙋𝙧𝙤𝙛𝙚𝙨𝙨𝙞𝙤𝙣**🌺❄️
