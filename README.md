@@ -2,12 +2,13 @@
 
 <h1 align="center"> ✨ 🍁 **𝑨𝑾𝑺 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚 & 𝑺𝒂𝒍𝒆𝒔𝒇𝒐𝒓𝒄𝒆 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚**. 🍁 ✨ </h1>
 
+![WTN - Finalist](https://github.com/ranjinnijoshe/ranjujoshi/assets/19187348/87fe6d85-af6c-472b-8655-85fadd309bd3)
+
+![W3-CS](https://github.com/ranjinnijoshe/ranjujoshi/assets/19187348/a6a2058c-5888-4455-aab7-e1a8c19ed4df)
+
 ![Colorful Watercolor Floral Linktree Background (12)](https://github.com/ranjinnijoshe/ranjujoshi/assets/19187348/9dba9ed3-9506-4cc9-931c-6d626a4bea73)
 
 ![image](https://github.com/ranjinnijoshe/ranjujoshi/assets/19187348/73bcf18b-f1ed-4b77-bf14-4210d33d943d)
-
-![WTN - Finalist](https://github.com/ranjinnijoshe/ranjujoshi/assets/19187348/87fe6d85-af6c-472b-8655-85fadd309bd3)
-
 
 
 ✨ # **Technical Skills** ✨
