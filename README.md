@@ -2,6 +2,8 @@
 
 <h1 align="center"> ✨ 🍁 **𝑨𝑾𝑺 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚 & 𝑺𝒂𝒍𝒆𝒔𝒇𝒐𝒓𝒄𝒆 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚**. 🍁 ✨ </h1>
 
+![WhatsApp Image 2023-12-14 at 10 33 42 AM - Copy](https://github.com/ranjinnijoshe/ranjujoshi/assets/19187348/1e9610ae-f9f6-430e-a3d2-082672e1b357)
+
 ![WTN - Finalist](https://github.com/ranjinnijoshe/ranjujoshi/assets/19187348/87fe6d85-af6c-472b-8655-85fadd309bd3)
 
 ![W3-CS](https://github.com/ranjinnijoshe/ranjujoshi/assets/19187348/a6a2058c-5888-4455-aab7-e1a8c19ed4df)
