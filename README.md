@@ -2,6 +2,8 @@
 
 <h1 align="center"> ✨ 🍁 **𝑨𝑾𝑺 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚 & 𝑺𝒂𝒍𝒆𝒔𝒇𝒐𝒓𝒄𝒆 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚**. 🍁 ✨ </h1>
 
+💚💙❤️ Honored as as Cloud Risk Champion at the CSA Bangalore Chapter Annual Awards Excellence 2023 💚💙❤️
+
 ![WhatsApp Image 2023-12-14 at 10 33 42 AM](https://github.com/ranjinnijoshe/ranjujoshi/assets/19187348/1008e6a0-e2b2-483b-a77c-48231f262023)
 
 ![WTN - Finalist](https://github.com/ranjinnijoshe/ranjujoshi/assets/19187348/87fe6d85-af6c-472b-8655-85fadd309bd3)
