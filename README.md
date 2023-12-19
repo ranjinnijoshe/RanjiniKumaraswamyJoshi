@@ -10,8 +10,6 @@
 
 ![Colorful Watercolor Floral Linktree Background (12)](https://github.com/ranjinnijoshe/ranjujoshi/assets/19187348/9dba9ed3-9506-4cc9-931c-6d626a4bea73)
 
-![image](https://github.com/ranjinnijoshe/ranjujoshi/assets/19187348/73bcf18b-f1ed-4b77-bf14-4210d33d943d)
-
 
 ✨ # **Technical Skills** ✨
 
@@ -19,7 +17,6 @@
 
 
 ![image](https://github.com/ranjinnijoshe/ranjujoshi/assets/19187348/b8b73adb-6153-4e8c-848c-722978904f32)
-
 
 
 ❄️🌺**𝙋𝙧𝙤𝙛𝙚𝙨𝙨𝙞𝙤𝙣**🌺❄️
