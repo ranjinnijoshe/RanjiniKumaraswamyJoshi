@@ -29,8 +29,6 @@ Working as ******AWS Cloud Security Specialist****** - Expertize in infrastructu
 
 🌸**𝐀𝐬 𝐚 𝐆𝐨-𝐠𝐞𝐭𝐭𝐞𝐫 𝐛𝐲 𝐚 𝐜𝐡𝐚𝐫𝐚𝐜𝐭𝐞𝐫 𝐈 𝐡𝐚𝐯𝐞 𝐦𝐚𝐫𝐤𝐞𝐝 𝐦𝐲𝐬𝐞𝐥𝐟 𝐭𝐨 𝐛𝐞 𝐚 𝐩𝐫𝐨𝐟𝐢𝐜𝐢𝐞𝐧𝐭 𝐚𝐧𝐝 𝐰𝐚𝐧𝐭 𝐭𝐨 𝐡𝐚𝐯𝐞 𝐚𝐥𝐥 𝐭𝐡𝐚𝐭 𝐠𝐫𝐞𝐚𝐭 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐰𝐢𝐭𝐡 𝐀𝐖𝐒 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐬𝐞𝐫𝐯𝐢𝐜𝐞𝐬.**🌸
 
-![WhatsApp Image 2023-07-14 at 7 19 09 PM](https://github.com/ranjujoshi/ranjujoshi/assets/19187348/17d4af91-176e-4fd4-8de6-4c390705dfdc)
-
 💚💙❤️ Honored as Jury by Government of India - National level Hackathon 2023 💚💙❤️
 
 ![WhatsApp Image 2023-08-10 at 4 07 53 PM (1)](https://github.com/ranjujoshi/ranjujoshi/assets/19187348/48a83ea6-7bfd-43e6-a51f-b910472a40bf)
