@@ -2,7 +2,16 @@
 
 <h1 align="center"> ✨ 🍁 **𝑨𝑾𝑺 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚 & 𝑺𝒂𝒍𝒆𝒔𝒇𝒐𝒓𝒄𝒆 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚**. 🍁 ✨ </h1>
 
-💚💙❤️ Honored as as Cloud Risk Champion at the CSA Bangalore Chapter Annual Awards Excellence 2023 💚💙❤️
+🍁 AWS Community Day 2023 Volunteer - 𝐀𝐧 𝐇𝐨𝐧𝐨𝐫 𝐟𝐫𝐨𝐦 AWS 🍁
+
+![Untitled](https://github.com/ranjinnijoshe/Ranjinnijoshe/assets/19187348/6417f824-41ef-49cd-ad8c-6134710a15c4)
+
+🍁 AWS Expert host - 𝐀𝐧 𝐇𝐨𝐧𝐨𝐫 𝐟𝐫𝐨𝐦 LTIMindtree 🍁
+🎉 Proud to share the hosting seat for the Organization-wise Knowledge Manager Center of Excellence.🎉 
+
+![1709567073208](https://github.com/ranjinnijoshe/Ranjinnijoshe/assets/19187348/4162c0b1-a5db-4843-8331-2e9feb0afd75)
+
+💚💙❤️ Honored as Cloud Risk Champion at the CSA Bangalore Chapter Annual Awards Excellence 2023 💚💙❤️
 
 ![WhatsApp Image 2023-12-14 at 10 33 42 AM](https://github.com/ranjinnijoshe/ranjujoshi/assets/19187348/1008e6a0-e2b2-483b-a77c-48231f262023)
 
