@@ -2,6 +2,60 @@
 
 <h1 align="center"> ✨ 🍁 **𝑨𝑾𝑺 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚 & 𝑺𝒂𝒍𝒆𝒔𝒇𝒐𝒓𝒄𝒆 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚**. 🍁 ✨ </h1>
 
+
+Truly honored with the recognition, have bagged the "𝐂𝐅𝐎 𝐒𝐮𝐬𝐭𝐚𝐢𝐧𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐂𝐡𝐚𝐦𝐩𝐢𝐨𝐧 𝟐𝟎𝟐𝟒" from Competitors View and 𝐓𝐡𝐞 𝐂𝐅𝐎 𝐒𝐭𝐨𝐫𝐲 𝐂𝐥𝐮𝐛.
+
+![CFO](https://github.com/user-attachments/assets/940a97d6-59e7-4741-a3a9-2b04eef3f44e)
+
+Interview on Security Frameworks and Standards, Case Studies and Best Practices With Ouaissou DEMBELE
+
+![Cybercory](https://github.com/user-attachments/assets/9f448df3-5dd9-42f1-9d1e-7198290ea367)
+
+Speaking on 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐌𝐚𝐭𝐮𝐫𝐢𝐭𝐲 𝐌𝐨𝐝𝐞𝐥 at Honeywell
+
+![Honeywell](https://github.com/user-attachments/assets/684e979d-abec-42e1-8d7a-7ea914aefb1b)
+
+Speaking on the crucial topic of "Cybersecurity Threat Landscape for IACS" in an upcoming webinar. 
+
+![CyberthreatLandscape](https://github.com/user-attachments/assets/044b8ebb-fc5d-4443-a817-0f79620b8dba)
+
+Be a hashtag#Wonderwomen wonderfully for your own path and instances of life. 
+
+![Inspirational Victory](https://github.com/user-attachments/assets/23e9dec7-51ff-4aee-904a-22515f139bd8)
+
+
+🎤 𝐕𝐢𝐛𝐫𝐚𝐧𝐭𝐥𝐲 𝐦𝐨𝐝𝐞𝐫𝐚𝐭𝐞𝐝 𝐭𝐡𝐞 𝐩𝐚𝐧𝐞𝐥 Security BSides Bangalore World Wide Women in Cyber Security (w3-cs) Annual Conferenc
+
+![PanelModerate2024](https://github.com/user-attachments/assets/f440110d-bd8f-43a3-a518-1db013016041)
+
+𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐂𝐡𝐚𝐦𝐩𝐢𝐨𝐧 𝐨𝐟 𝐭𝐡𝐞 𝐘𝐞𝐚𝐫 𝐀𝐰𝐚𝐫𝐝 𝟐𝟎𝟐𝟒! 🏆
+
+![CyberChamp2024](https://github.com/user-attachments/assets/e3af0575-a557-4e63-9aa6-9d0882c5c904)
+
+𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐝 𝐚𝐬 𝐖𝐨𝐦𝐞𝐧 𝐈𝐧 𝐎𝐓 𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐚𝐧𝐝 𝐂𝐥𝐨𝐮𝐝 𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐭𝐨 𝐖𝐚𝐭𝐜𝐡 𝐢𝐧 𝟐𝟎𝟐𝟒
+
+![CIOLOOK](https://github.com/user-attachments/assets/f2ae12de-5fd0-4d4b-a77a-379b2e5f8c62)
+
+
+𝐖𝐢𝐭𝐡 𝐛𝐨𝐮𝐧𝐝𝐥𝐞𝐬𝐬 𝐞𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐦, 𝐝𝐞𝐥𝐢𝐯𝐞𝐫𝐞𝐝 𝐚𝐧 𝐞𝐧𝐠𝐚𝐠𝐢𝐧𝐠 𝐭𝐚𝐥𝐤 𝐚𝐭 John Deere 𝐨𝐧 "𝐈𝐦𝐩𝐥𝐞𝐦𝐞𝐧𝐭𝐢𝐧𝐠 𝐈𝐒𝐀/𝐈𝐄𝐂 𝟔𝟐𝟒𝟒𝟑 𝐟𝐨𝐫 𝐑𝐞𝐬𝐢𝐥𝐢𝐞𝐧𝐭 𝐎𝐓 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲"
+
+![John Dheere](https://github.com/user-attachments/assets/83de6ca6-bf15-41a3-9cf0-24413e0fdd9d)
+
+Speaking to BluSapphire, thank you for this wonderful opportunity. 
+
+![Bluesaffire](https://github.com/user-attachments/assets/25cf5f16-0a35-4a81-9d8f-1b9a28efcbab)
+
+𝐒𝐮𝐩𝐞𝐫 𝐞𝐱𝐜𝐢𝐭𝐞𝐝 𝐭𝐨 𝐬𝐩𝐞𝐚𝐤 𝐨𝐧 𝐎𝐓 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐚𝐭 𝐃𝐚𝐲 𝐨𝐟 𝐒𝐡𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐂𝐨𝐧𝐟𝐞𝐫𝐞𝐧𝐜𝐞 𝐢𝐧 𝐈𝐧𝐝𝐢𝐚😊
+
+![1714994383880](https://github.com/user-attachments/assets/59d8ef6f-66c8-48e4-b82d-c9539515187a)
+
+𝐁𝐚𝐠𝐠𝐞𝐝 𝐐𝟒 𝐑𝐞𝐰𝐚𝐫𝐝𝐬 𝐚𝐧𝐝 𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧 🎉
+
+![1713962399994](https://github.com/user-attachments/assets/72c1764f-b89f-46d1-b7e0-0c08ce0b2b24)
+
+
+
+
 🍁 AWS Community Day 2023 Volunteer - 𝐀𝐧 𝐇𝐨𝐧𝐨𝐫 𝐟𝐫𝐨𝐦 AWS 🍁
 
 ![Untitled](https://github.com/ranjinnijoshe/Ranjinnijoshe/assets/19187348/6417f824-41ef-49cd-ad8c-6134710a15c4)
