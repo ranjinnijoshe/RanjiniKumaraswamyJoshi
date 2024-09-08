@@ -3,6 +3,10 @@
 <h1 align="center"> ✨ 🍁 **𝑨𝑾𝑺 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚 & 𝑺𝒂𝒍𝒆𝒔𝒇𝒐𝒓𝒄𝒆 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚**. 🍁 ✨ </h1>
 
 
+𝐓𝐨𝐩 𝐂𝐲𝐛𝐞𝐫 𝐕𝐨𝐢𝐜𝐞 𝟐𝟎𝟐𝟒 𝐀𝐰𝐚𝐫𝐝! 🙏 from CXOCyways
+
+![WhatsApp Image 2024-09-06 at 9 48 00 AM](https://github.com/user-attachments/assets/5f0347a7-5b3c-4f19-aa9c-558b083678e7)
+
 Truly honored with the recognition, have bagged the "𝐂𝐅𝐎 𝐒𝐮𝐬𝐭𝐚𝐢𝐧𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐂𝐡𝐚𝐦𝐩𝐢𝐨𝐧 𝟐𝟎𝟐𝟒" from Competitors View and 𝐓𝐡𝐞 𝐂𝐅𝐎 𝐒𝐭𝐨𝐫𝐲 𝐂𝐥𝐮𝐛.
 
 ![CFO](https://github.com/user-attachments/assets/940a97d6-59e7-4741-a3a9-2b04eef3f44e)
