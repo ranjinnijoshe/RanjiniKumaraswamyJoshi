@@ -20,6 +20,8 @@ Interview on Security Frameworks and Standards, Case Studies and Best Practices 
 
 Speaking on 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐌𝐚𝐭𝐮𝐫𝐢𝐭𝐲 𝐌𝐨𝐝𝐞𝐥 at Honeywell
 
+![Honeywell](https://github.com/user-attachments/assets/a782eae6-23cc-466f-be28-ad81731cc388)
+
 ![Honeywell](https://github.com/user-attachments/assets/684e979d-abec-42e1-8d7a-7ea914aefb1b)
 
 Speaking on the crucial topic of "Cybersecurity Threat Landscape for IACS" in an upcoming webinar. 
