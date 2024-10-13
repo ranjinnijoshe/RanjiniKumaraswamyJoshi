@@ -42,6 +42,7 @@ Be a hashtag#Wonderwomen wonderfully for your own path and instances of life.
 ![CyberChamp2024](https://github.com/user-attachments/assets/e3af0575-a557-4e63-9aa6-9d0882c5c904)
 
 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐝 𝐚𝐬 𝐖𝐨𝐦𝐞𝐧 𝐈𝐧 𝐎𝐓 𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐚𝐧𝐝 𝐂𝐥𝐨𝐮𝐝 𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐭𝐨 𝐖𝐚𝐭𝐜𝐡 𝐢𝐧 𝟐𝟎𝟐𝟒
+https://ciolook.com/ranjinni-joshe-transforming-the-landscape-of-cloud-security-and-ot-security/
 
 ![CIOLOOK](https://github.com/user-attachments/assets/f2ae12de-5fd0-4d4b-a77a-379b2e5f8c62)
 
@@ -61,9 +62,6 @@ Speaking to BluSapphire, thank you for this wonderful opportunity.
 𝐁𝐚𝐠𝐠𝐞𝐝 𝐐𝟒 𝐑𝐞𝐰𝐚𝐫𝐝𝐬 𝐚𝐧𝐝 𝐑𝐞𝐜𝐨𝐠𝐧𝐢𝐭𝐢𝐨𝐧 🎉
 
 ![1713962399994](https://github.com/user-attachments/assets/72c1764f-b89f-46d1-b7e0-0c08ce0b2b24)
-
-
-
 
 🍁 AWS Community Day 2023 Volunteer - 𝐀𝐧 𝐇𝐨𝐧𝐨𝐫 𝐟𝐫𝐨𝐦 AWS 🍁
 
