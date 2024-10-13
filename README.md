@@ -4,8 +4,7 @@
 
 Nominated for Global Awards 2024 from WomenTech Network 
 
-![Uploading WomenTechNetwork GlobalAward 2024.jpeg…]()
-
+![WomenTechNetwork GlobalAward 2024](https://github.com/user-attachments/assets/4b7f6a1e-a2a0-4cb1-9a87-60374627ac09)
 
 𝐓𝐨𝐩 𝐂𝐲𝐛𝐞𝐫 𝐕𝐨𝐢𝐜𝐞 𝟐𝟎𝟐𝟒 𝐀𝐰𝐚𝐫𝐝! 🙏 from CXOCyways
 
