@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm 𝑹𝒂𝒏𝒋𝒊𝒏𝒏𝒊𝒋𝒐𝒔𝒉𝒆 ☺ </h1> 
 
-<h1 align="center"> ✨ 🍁 **𝑨𝑾𝑺 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚 & 𝑺𝒂𝒍𝒆𝒔𝒇𝒐𝒓𝒄𝒆 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚**. 🍁 ✨ </h1>
+<h1 align="center"> ✨ 🍁 **𝐂𝐲𝐛𝐞𝐫𝐬𝒆𝒄𝒖𝒓𝒊𝒕𝒚 & 𝐂𝐥𝐨𝐮𝐝 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚**. 🍁 ✨ </h1>
+
+Nominated for Global Awards 2024 from WomenTech Network 
+
+![Uploading WomenTechNetwork GlobalAward 2024.jpeg…]()
 
 
 𝐓𝐨𝐩 𝐂𝐲𝐛𝐞𝐫 𝐕𝐨𝐢𝐜𝐞 𝟐𝟎𝟐𝟒 𝐀𝐰𝐚𝐫𝐝! 🙏 from CXOCyways
