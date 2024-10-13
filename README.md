@@ -8,7 +8,7 @@ Nominated for Global Awards 2024 from WomenTech Network
 
 𝐓𝐨𝐩 𝐂𝐲𝐛𝐞𝐫 𝐕𝐨𝐢𝐜𝐞 𝟐𝟎𝟐𝟒 𝐀𝐰𝐚𝐫𝐝! 🙏 from CXOCyways
 
-![WhatsApp Image 2024-09-06 at 9 48 00 AM](https://github.com/user-attachments/assets/5f0347a7-5b3c-4f19-aa9c-558b083678e7)
+![WhatsApp Image 2024-10-13 at 8 55 58 PM](https://github.com/user-attachments/assets/7ba4b5f5-d62a-4714-8ed5-b66955b113c5)
 
 Truly honored with the recognition, have bagged the "𝐂𝐅𝐎 𝐒𝐮𝐬𝐭𝐚𝐢𝐧𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐂𝐡𝐚𝐦𝐩𝐢𝐨𝐧 𝟐𝟎𝟐𝟒" from Competitors View and 𝐓𝐡𝐞 𝐂𝐅𝐎 𝐒𝐭𝐨𝐫𝐲 𝐂𝐥𝐮𝐛.
 
