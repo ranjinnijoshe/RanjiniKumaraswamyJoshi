@@ -164,6 +164,5 @@ Working as ******AWS Cloud Security Specialist****** - Expertize in infrastructu
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ranjinnijoshe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ranjinnijoshe/" height="30" width="40" /></a>
-<a href="https://medium.com/@ranjinnijoshe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fawazcp" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@ranjujoshi6851/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@cloudnloud" height="30" width="40" /></a>
+
 
