@@ -2,6 +2,11 @@
 
 <h1 align="center"> ✨ 🍁 **𝐂𝐲𝐛𝐞𝐫𝐬𝒆𝒄𝒖𝒓𝒊𝒕𝒚 & 𝐂𝐥𝐨𝐮𝐝 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚**. 🍁 ✨ </h1>
 
+
+AWS Security Services for every business and for AWS Women's User Group- UAE
+
+![1731862264166](https://github.com/user-attachments/assets/d7a2e269-79bb-4b14-951d-a8afb880c2f8)
+
 Nominated for Global Awards 2024 from WomenTech Network 
 
 ![WomenTechNetwork GlobalAward 2024](https://github.com/user-attachments/assets/4b7f6a1e-a2a0-4cb1-9a87-60374627ac09)
