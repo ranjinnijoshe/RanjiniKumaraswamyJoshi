@@ -2,6 +2,9 @@
 
 <h1 align="center"> ✨ 🍁 **𝐂𝐲𝐛𝐞𝐫𝐬𝒆𝒄𝒖𝒓𝒊𝒕𝒚 & 𝐂𝐥𝐨𝐮𝐝 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚**. 🍁 ✨ </h1>
 
+𝐑𝐞𝐩𝐫𝐞𝐬𝐞𝐧𝐭𝐢𝐧𝐠 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐚𝐬 𝐚 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐏𝐚𝐫𝐭𝐧𝐞𝐫 & 𝐰𝐨𝐧 𝐀𝐈 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 (𝐖𝐨𝐦𝐞𝐧 𝐢𝐧 𝐀𝐈 session) at Data Security Council of India 𝐚𝐭 𝐃𝐞𝐥𝐡𝐢.
+
+![1733751310087](https://github.com/user-attachments/assets/42c3de8e-6dee-4134-bb94-c1fe597338d6)
 
 AWS Security Services for every business and for AWS Women's User Group- UAE
 
