@@ -2,6 +2,10 @@
 
 <h1 align="center"> ✨ 🍁 **𝐎𝐓 𝐂𝐲𝐛𝐞𝐫𝐬𝒆𝒄𝒖𝒓𝒊𝒕𝒚 & 𝐂𝐥𝐨𝐮𝐝 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚**. 🍁 ✨ </h1>
 
+Honored by CXO XPERTS as OT security specialist providing insights on Digital Trust and how ISA/IEC 62443 influences cloud security strategies
+
+<img width="920" alt="CXO Experts" src="https://github.com/user-attachments/assets/8903aff9-867c-48d1-bc94-ac70832edfed" />
+
 𝐇𝐨𝐧𝐨𝐫𝐞𝐝 𝐚𝐬 𝐚 𝐏𝐨𝐬𝐜𝐚𝐬𝐭 𝐬𝐩𝐞𝐚𝐤𝐞𝐫 𝐭𝐨 𝐭𝐚𝐥𝐤 𝐨𝐧 𝐎𝐓 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐚𝐧d 𝐂𝐥𝐨𝐮𝐝 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐚𝐧𝐝 𝐭𝐡𝐞 𝐣𝐨𝐮𝐫𝐧𝐞𝐲
 
 ![Media (1)](https://github.com/user-attachments/assets/e2791f42-2de3-4141-8940-e94daf33083a)
