@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ranjnijoshie ☺ </h1> 
+<h1 align="center">Hi 👋, I'm RanjniKumaraswamyjoshi ☺ </h1> 
 
 <h1 align="center"> ✨ 🍁 **𝐎𝐓 𝐂𝐲𝐛𝐞𝐫𝐬𝒆𝒄𝒖𝒓𝒊𝒕𝒚 & 𝐂𝐥𝐨𝐮𝐝 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚**. 🍁 ✨ </h1>
 
