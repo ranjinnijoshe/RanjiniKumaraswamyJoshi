@@ -2,6 +2,14 @@
 
 <h1 align="center"> ✨ 🍁 **𝐎𝐓 𝐂𝐲𝐛𝐞𝐫𝐬𝒆𝒄𝒖𝒓𝒊𝒕𝒚 & 𝐂𝐥𝐨𝐮𝐝 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚**. 🍁 ✨ </h1>
 
+𝐖𝐨𝐧𝐝𝐞𝐫 𝐖𝐨𝐦𝐞𝐧 𝐈𝐧 𝐂𝐲𝐛𝐞𝐫 😊 
+
+![1745835338394](https://github.com/user-attachments/assets/139e56ff-2931-411c-a1bd-482deafb02b1)
+
+https://lnkd.in/dqgYSCNB
+
+https://www.linkedin.com/posts/activity-7322965534763798531-iQzi?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvbLJUBVE3DZ4nX1TBdtP8cJVNncAI--f4
+
 Honored by CXO XPERTS as OT security specialist providing insights on Digital Trust and how ISA/IEC 62443 influences cloud security strategies
 
 <img width="920" alt="CXO Experts" src="https://github.com/user-attachments/assets/8903aff9-867c-48d1-bc94-ac70832edfed" />
