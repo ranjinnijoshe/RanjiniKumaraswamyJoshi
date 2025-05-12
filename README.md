@@ -3,6 +3,7 @@
 <h1 align="center"> ✨ 🍁 **𝐎𝐓 𝐂𝐲𝐛𝐞𝐫𝐬𝒆𝒄𝒖𝒓𝒊𝒕𝒚 & 𝐂𝐥𝐨𝐮𝐝 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚**. 🍁 ✨ </h1>
 
 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐌𝐞𝐞𝐭𝐬 𝐇𝐞𝐫 𝐏𝐨𝐰𝐞𝐫 – 𝐇𝐨𝐧𝐨𝐫𝐞𝐝 𝐭𝐨 𝐛𝐞 𝐩𝐚𝐫𝐭 𝐨𝐟 𝐭𝐡𝐢𝐬 𝐩𝐨𝐰𝐞𝐫𝐟𝐮𝐥 𝐜𝐨𝐧𝐯𝐞𝐫𝐬𝐚𝐭𝐢𝐨𝐧! #WomenInSecurity with US Channel, The Channel Company🌟
+Refer : https://lnkd.in/gq-4CgJy
 
 ![1747033776435](https://github.com/user-attachments/assets/ad12125e-521a-4565-9ef4-dcceb1869b2d)
 
