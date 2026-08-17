@@ -3,10 +3,12 @@
 <h1 align="center"> ✨ 🍁 **𝐎𝐓 𝐂𝐲𝐛𝐞𝐫𝐬𝒆𝒄𝒖𝒓𝒊𝒕𝒚 & 𝐂𝐥𝐨𝐮𝐝 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚**. 🍁 ✨ </h1>
 
 𝐄𝐧𝐭𝐞𝐫𝐩𝐫𝐢𝐬𝐢𝐧𝐠 𝐖𝐨𝐦𝐞𝐧 𝐨𝐟 𝐭𝐡𝐞 𝐘𝐞𝐚𝐫 𝟐𝟎𝟐𝟔🌟
+https://lnkd.in/p/gbQ-D2na
 
 <img width="1030" height="642" alt="WhatsApp Image 2026-08-17 at 16 06 50" src="https://github.com/user-attachments/assets/c386033b-5d65-42ec-8432-85ab72f8a325" />
 
 ✨𝐃𝐞𝐥𝐢𝐯𝐞𝐫𝐞𝐝 𝐟𝐢𝐫𝐬𝐭 𝐈𝐧𝐭𝐞𝐫𝐧𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐭𝐚𝐥𝐤 𝟐𝟎𝟐𝟔!
+https://lnkd.in/p/gGcaPq9i
 
 <img width="800" height="800" alt="1770620208870" src="https://github.com/user-attachments/assets/6e8292d2-fc81-4cd3-a166-b7c4f8d9c554" />
 
