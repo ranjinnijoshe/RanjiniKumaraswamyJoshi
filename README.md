@@ -2,6 +2,18 @@
 
 <h1 align="center"> ✨ 🍁 **𝐎𝐓 𝐂𝐲𝐛𝐞𝐫𝐬𝒆𝒄𝒖𝒓𝒊𝒕𝒚 & 𝐂𝐥𝐨𝐮𝐝 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚**. 🍁 ✨ </h1>
 
+𝐄𝐧𝐭𝐞𝐫𝐩𝐫𝐢𝐬𝐢𝐧𝐠 𝐖𝐨𝐦𝐞𝐧 𝐨𝐟 𝐭𝐡𝐞 𝐘𝐞𝐚𝐫 𝟐𝟎𝟐𝟔🌟
+
+<img width="1030" height="642" alt="WhatsApp Image 2026-08-17 at 16 06 50" src="https://github.com/user-attachments/assets/c386033b-5d65-42ec-8432-85ab72f8a325" />
+
+✨𝐃𝐞𝐥𝐢𝐯𝐞𝐫𝐞𝐝 𝐟𝐢𝐫𝐬𝐭 𝐈𝐧𝐭𝐞𝐫𝐧𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐭𝐚𝐥𝐤 𝟐𝟎𝟐𝟔!
+
+<img width="800" height="800" alt="1770620208870" src="https://github.com/user-attachments/assets/6e8292d2-fc81-4cd3-a166-b7c4f8d9c554" />
+
+✨𝐇𝐨𝐧𝐨𝐫𝐞𝐝 𝐚𝐬 𝐚 𝐪𝐮𝐚𝐫𝐭𝐞𝐫 𝐨𝐟 𝐭𝐡𝐞 𝐞𝐦𝐩𝐥𝐨𝐲𝐞𝐞 𝟐𝟎𝟐𝟔!
+
+<img width="1080" height="963" alt="WhatsApp Image 2026-08-17 at 16 06 10" src="https://github.com/user-attachments/assets/81afb40a-865f-4835-8913-299fe67ccb23" />
+
 ✨𝐇𝐨𝐧𝐨𝐫𝐞𝐝 𝐚𝐬 𝐚 𝐆𝐇𝐂𝐈𝟐𝟎𝟐𝟓 𝐉𝐮𝐫𝐨𝐫 𝐚𝐧𝐝 𝐒𝐩𝐞𝐚𝐤𝐞𝐫 at 𝐆𝐫𝐚𝐜𝐞𝐡𝐨𝐩𝐩𝐞𝐫 and AnitaB.org 𝐜𝐨𝐧𝐟𝐞𝐫𝐞𝐧𝐜𝐞 𝐂𝐨𝐧𝐟𝐞𝐫𝐞𝐧𝐜𝐞 𝟐𝟎𝟐𝟓!
 
 ![Media (11)](https://github.com/user-attachments/assets/5f3048f3-f091-47c6-b40d-29a5de3db6e7)
