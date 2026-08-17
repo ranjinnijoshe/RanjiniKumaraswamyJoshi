@@ -3,7 +3,7 @@
 <h1 align="center"> ✨ 🍁 **𝐎𝐓 𝐂𝐲𝐛𝐞𝐫𝐬𝒆𝒄𝒖𝒓𝒊𝒕𝒚 & 𝐂𝐥𝐨𝐮𝐝 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚**. 🍁 ✨ </h1>
 
 𝐄𝐧𝐭𝐞𝐫𝐩𝐫𝐢𝐬𝐢𝐧𝐠 𝐖𝐨𝐦𝐞𝐧 𝐨𝐟 𝐭𝐡𝐞 𝐘𝐞𝐚𝐫 𝟐𝟎𝟐𝟔🌟
-https://lnkd.in/p/gbQ-D2na
+[https://lnkd.in/p/gbQ-D2na](https://ciobusinessworld.com/ranjni-joshie-mission-to-secure-the-digital-future/)
 
 <img width="1030" height="642" alt="WhatsApp Image 2026-08-17 at 16 06 50" src="https://github.com/user-attachments/assets/c386033b-5d65-42ec-8432-85ab72f8a325" />
 
